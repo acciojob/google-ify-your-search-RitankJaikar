@@ -24,7 +24,7 @@ body {
   height: 30px;
 }
 
-.navbar .signin-btn {
+.navbar .sign_in {
   background-color: transparent;
   border: 1px solid #ccc;
   padding: 8px 16px;
@@ -40,7 +40,7 @@ body {
   margin-top: 150px;
 }
 
-.search-bar {
+.search_bar {
   width: 500px;
   height: 40px;
   padding: 0 20px;
